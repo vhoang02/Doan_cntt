@@ -1,2 +1,3 @@
 # Doan_cntt
-Đồ án cuối kỳ công nghệ thông tin 
+Nguyễn Việt Hoàng - 20110130
+Nguyễn Anh Tỷ - 20110084
