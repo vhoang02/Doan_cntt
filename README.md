@@ -1,3 +1,3 @@
-# Doan_cntt
-# Nguyễn Việt Hoàng - 20110130
-# Nguyễn Anh Tỷ - 20110084
+<p>Giáo viên hướng dẫn: Trần Công Tú</p>
+<p>Sinh viên thực hiện: Nguyễn Việt Hoàng</p>
+<p>MSSV: 20110130</p>
